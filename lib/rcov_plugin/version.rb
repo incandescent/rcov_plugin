@@ -1,3 +1,3 @@
 module RcovPlugin
-  VERSION = "3.0.1-incandescent"
+  VERSION = "3.0.1"
 end
