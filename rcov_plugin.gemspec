@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'rcov_plugin/version'
  
 Gem::Specification.new do |s|
-  s.name        = "rcov_plugin-incandescent"
+  s.name        = "rcov_plugin"
   s.version     = RcovPlugin::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Alan Johnson"]
